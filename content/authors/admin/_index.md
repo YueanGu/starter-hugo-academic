@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuean Gu
+title: Yuean Gu(谷悦安)
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,7 +29,7 @@ education:
       institution: University of Chinese Academy of Sciences
       year: 2008
     - course: MEng in Artificial Intelligence
-      institution: University of Chinese Academy of Sciences
+      institution: University of California, Berkeley
       year: 2009
 
 # Social/Academic Networking
