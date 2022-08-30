@@ -11,10 +11,10 @@ role: Senior Undergraduate Majoring in Electrical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Chinese Academy of Sciences
-    url: https://www.stanford.edu/
+    url: https://english.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include integrated circuits.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: University of Chinese Academy of Sciences
       year: 2008
+    - course: MEng in Artificial Intelligence
+      institution: University of Chinese Academy of Sciences
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
