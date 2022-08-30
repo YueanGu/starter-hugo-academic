@@ -6,11 +6,11 @@ title: Yuean Gu
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Undergraduate Majoring in Electrical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Chinese Academy of Sciences
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
