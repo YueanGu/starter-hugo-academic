@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuean Gu(谷悦安)
+title: Yuean Gu
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,21 +14,21 @@ organizations:
     url: https://english.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include integrated circuits.
+bio: My research interests include integrated circuits, silicon photonics and xxx.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Integrated Circuits
+  - Silicon Photonics
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Artificial Intelligence
+    - course: BE in Electronic Information Engineering, Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
       year: 2008
-    - course: MEng in Artificial Intelligence
+    - course: BE in Eletrical Engineering, Jan. 2022 – May. 2022
       institution: University of California, Berkeley
       year: 2009
 
