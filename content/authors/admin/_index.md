@@ -25,12 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Electronic Information Engineering, Sep. 2019 – Jun. 2023(excepted)
+    - course: BE in Electronic Information Engineering     
+	course:Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
-      year: 2008
-    - course: BE in Eletrical Engineering, Jan. 2022 – May. 2022
+
+    - course: BE in Eletrical Engineering    Jan. 2022 – May. 2022
       institution: University of California, Berkeley
-      year: 2009
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
