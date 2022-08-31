@@ -28,7 +28,7 @@ education:
     - course: BE in Electronic Information Engineering	Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
 
-    - course: Visiting Student in Eletrical Engineering    Jan. 2022 – May. 2022
+    - course: Visiting Student in Electrical Engineering    Jan. 2022 – May. 2022
       institution: University of California, Berkeley
 
 
@@ -67,8 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Yuean Gu is a 
-#professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuean Gu is a senior undergraduate majoring in xxx.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
