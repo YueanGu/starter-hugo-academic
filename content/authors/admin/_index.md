@@ -26,10 +26,10 @@ interests:
 education:
   courses:
     - course: BE in Electronic Information Engineering     
-	course:Sep. 2019 – Jun. 2023(excepted)
+	course: Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
 
-    - course: BE in Eletrical Engineering    Jan. 2022 – May. 2022
+    - course: Visiting Student in Eletrical Engineering    Jan. 2022 – May. 2022
       institution: University of California, Berkeley
 
 
