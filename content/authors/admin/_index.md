@@ -25,8 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Electronic Information Engineering     
-	course: Sep. 2019 – Jun. 2023(excepted)
+    - course: BE in Electronic Information Engineering	Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
 
     - course: Visiting Student in Eletrical Engineering    Jan. 2022 – May. 2022
