@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BE in Electronic Information Engineering	Sep. 2019 – Jun. 2023(excepted)
+    - course: Bachelor in Electronics and Information Engineering	Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
 
     - course: Visiting Student in Electrical Engineering    Jan. 2022 – May. 2022
@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-Yuean Gu is a senior undergraduate majoring in xxx.
+Yuean Gu is a senior undergraduate majoring in Electrical Engineering.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
