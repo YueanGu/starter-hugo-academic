@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor in Electronics and Information Engineering	Sep. 2019 – Jun. 2023(excepted)
+    - course: Bachelor in Electronics and Information Engineering, Sep. 2019 – Jun. 2023(excepted)
       institution: University of Chinese Academy of Sciences
 
-    - course: Visiting Student in Electrical Engineering    Jan. 2022 – May. 2022
+    - course: Exchange Student in Electrical Engineering, Jan. 2022 – May. 2022
       institution: University of California, Berkeley
 
 
