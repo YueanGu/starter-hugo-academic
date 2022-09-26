@@ -37,13 +37,25 @@ experience:
         * Deploying
 
   - title: Professor of Semiconductor Physics
-    company: University X
+    company: Berkeley Wireless Research Center(BWRC), University of California, Berkeley
     company_url: ''
-#   company_logo: org-x
-    location: California
+    location: Beijing, China
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    location: Berkeley, California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
