@@ -53,7 +53,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Designed a testboard system for a clock-data-recovery chip using Altium Designer.
         * Modelling
         * Deploying
 
