@@ -51,11 +51,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Designed a testboard system for a clock-data-recovery chip using Altium Designer.
         
-        * Designed a testboard system for a clock-data-recovery chip using Altium Designer.
-        * Modelling
-        * Deploying
+        * Calculated the characteristic impedance of transmission line to decrease the reflection and increase the transmission of the high frequency signals.
+        * Modeled and simulated the differential coplanar waveguide on board, using Advanced Design System.
+        * Chose a kind of low dropout regulator for the powerboard according to key parameters and used multiple decoupling capacitors to depress the current ripple.
 
 design:
   columns: '2'
