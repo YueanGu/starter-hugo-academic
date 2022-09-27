@@ -44,10 +44,10 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: CEO
+  - title: Designed a testboard system for a clock-data-recovery chip
     company: GenCoin
     company_url: ''
-    location: Berkeley, California
+    location: Beijing, China
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
