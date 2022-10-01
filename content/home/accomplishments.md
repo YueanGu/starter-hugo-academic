@@ -27,7 +27,7 @@ item:
   - date_end: ''
     date_start: '2021-01-25'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Coursera
+    organization: ''
     organization_url: ''
     title: Neural Networks and Deep Learning
     url: ''
