@@ -27,7 +27,7 @@ item:
   - date_start: '2022-10-08'
     date_end: '2022-12-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Instructor Professor Peng Feng
+    organization: 'Instructor Professor Peng Feng'
     title: Blockchain Fundamentals
     url: ''
   - date_start: '2022-08-27'
