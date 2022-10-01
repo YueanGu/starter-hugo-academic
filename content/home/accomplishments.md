@@ -28,14 +28,14 @@ item:
     date_end: '2022-12-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: 'Instructor: Professor Peng Feng'
-    title: Blockchain Fundamentals
+    title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
     url: ''
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Instructor Professor Nan Qi
+    organization: 'Instructor: Professor Nan Qi'
     organization_url: ''
-    title: Neural Networks and Deep Learning
+    title: Teaching Assistant, Nonlinear Electrical Circuits
     url: ''
 
 design:
