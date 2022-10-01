@@ -34,8 +34,7 @@ item:
   - date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Cours
-#   organization_url: https://www.coursera.org    
+    organization: ABC   
     title: Blockchain Fundamentals
     url: ''
 
