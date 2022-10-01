@@ -27,7 +27,7 @@ item:
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: Instructor: Professor Nan Qi
+    organization: Profe
     organization_url: ''
     title: Neural Networks and Deep Learning
     url: ''
