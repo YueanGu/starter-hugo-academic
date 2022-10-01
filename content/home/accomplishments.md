@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: ''
-    date_start: '2021-01-25'
+  - date_start: '2022-08-27'
+    date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: ''
     organization_url: ''
