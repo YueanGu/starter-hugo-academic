@@ -24,12 +24,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2022-10-08'
-    date_end: '2022-12-31'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: 'Instructor: Professor Peng Feng'
-    title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
-    url: ''
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases.
@@ -37,6 +31,13 @@ item:
     organization_url: ''
     title: Teaching Assistant, Nonlinear Electrical Circuits
     url: ''
+  - date_start: '2022-10-08'
+    date_end: '2022-12-31'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: 'Instructor: Professor Peng Feng'
+    title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
+    url: ''
+
 
 design:
   columns: '2'
