@@ -70,4 +70,4 @@ highlight_name: true
 Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. She grew up in Nanjing, Jiangsu in eastern China.
 
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
