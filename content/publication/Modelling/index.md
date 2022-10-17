@@ -29,7 +29,7 @@ authors:
 #publication: Submitted to IEEE Electron Device Letters
 #publication_short: Submitted to IEEE Electron Device Letters
 
-abstract: The past 40 years have seen an explosion of Radio Frequency (RF) transmitters, which motivates understanding their impacts on the natural world. The European honeybee, Apis Mellifera, has been shown to sense the Earth's magnetic field. Human Radio Frequency (RF) transmitters alter this field. For example, recent work demonstrated that human-created RF interferes with the common robin's ability to orient themselves. This work proposes an experimental design to determine if honeybees can sense RF transmissions in frequencies from 1 MHz (AM radio) to 6 GHz (WiFi). We deployed a custom-designed RF bee feeder near bee hives to test honeybees' RF sensing ability.
+abstract: Characteristics of transistors in the commercial 45nm PD-SOI process are evaluated for the first time down to 2.5K cryogenic temperatures. The measured values are used to demonstrate the impact of cryogenic temperatures on integrated circuit designs for cryogenic computing systems. DC characterization is implemented on different types of devices. Key design parameters are extracted and analyzed with the corresponding low-temperature effect. The characterization of ring oscillator shows that average logic delay improves by approximately 21%after reducing the temperature from 300K to 2.5K, contributed by the increase of the drive current and decrease of capacitors.
 
 tags: []
 
