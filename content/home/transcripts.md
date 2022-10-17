@@ -28,7 +28,7 @@ item:
     date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}}{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
     organization: 'Instructor: Professor Nan Qi'
-    organization_url: ''
+    organization_url: 'uploads/resume.pdf'
     title: Teaching Assistant, Nonlinear Electrical Circuits
     url: ''
   - date_start: '2022-10-08'
