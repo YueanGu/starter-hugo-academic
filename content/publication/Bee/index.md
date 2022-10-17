@@ -5,14 +5,9 @@ title: "Investigating the biological impacts of radio transmissions"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Murtadha Aldeer
-- Joseph Florentine
-- Justin Yu, Liam Ryan
+- Bozhi Yin
 - admin
-- Jakub Kolodziejski
-- Mike Haberland
-- Richard E Howard
-- Richard P Martin
+- Vladimir M. Stojanovic
 
 # Author notes (optional)
 # author_notes:
@@ -28,7 +23,7 @@ publishDate: "2020-11-16T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 18th Conference on Embedded Networked Sensor Systems*
