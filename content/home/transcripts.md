@@ -39,5 +39,5 @@ item:
     url: 'uploads/transcripts_UCAS.pdf'
 
 design:
-  columns: '3'
+  columns: '4'
 ---
