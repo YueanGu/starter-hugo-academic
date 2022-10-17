@@ -37,10 +37,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - email: guyuean19@mails.ucas.ac.cn
+#  - icon: envelope
+#    icon_pack: fas
+#   link: '/#contact'
+#  - email: guyuean19@mails.ucas.ac.cn
 #    Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 #  - icon: twitter
 #    icon_pack: fab
