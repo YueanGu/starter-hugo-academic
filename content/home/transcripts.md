@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2022-10-08'
-    date_end: '2022-12-31'
+    date_end: ''
     description: Formulated informed blockchain models, hypotheses, and use cases.
     #organization: 'Instructor: Professor Peng Feng'
     title: 🖨 Click Here to Download Transcripts at University of Chinese Academy of Sciences
@@ -39,5 +39,5 @@ item:
     url: 'uploads/transcripts_UCBerkeley.pdf'
 
 design:
-  columns: '4'
+  columns: '2'
 ---
