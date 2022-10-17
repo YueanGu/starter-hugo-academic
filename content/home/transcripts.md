@@ -26,6 +26,7 @@ date_format: Jan 2006
 item:
   - date_start: '2022-10-08'
     date_end: ''
+    company: GenCoin
     description: Formulated informed blockchain models, hypotheses, and use cases.
     #organization: 'Instructor: Professor Peng Feng'
     title: 🖨 Click Here to Download Transcripts at University of Chinese Academy of Sciences
