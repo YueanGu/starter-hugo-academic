@@ -40,7 +40,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-    email: guyuean19@mails.ucas.ac.cn
+  - email: guyuean19@mails.ucas.ac.cn
 #    Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 #  - icon: twitter
 #    icon_pack: fab
