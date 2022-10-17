@@ -69,4 +69,4 @@ highlight_name: true
 
 Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. 
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.Here is my {{< staticref "uploads/picture.jpg" "newtab" >}}picture{{< /staticref >}}.
