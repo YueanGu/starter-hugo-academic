@@ -24,6 +24,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2022-10-08'
+    date_end: '2022-12-31'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    #organization: 'Instructor: Professor Peng Feng'
+    title: Click to Download Transcripts at UC Berkeley
+    url: 'uploads/transcripts_UCBerkeley.pdf'
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}}{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
@@ -31,14 +37,7 @@ item:
     #organization_url: ''
     title: Click to Download Transcripts at University of Chinese Academy of Sciences
     url: 'uploads/transcripts_UCAS.pdf'
-  - date_start: '2022-10-08'
-    date_end: '2022-12-31'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    #organization: 'Instructor: Professor Peng Feng'
-    title: Click to Download Transcripts at UC Berkeley
-    url: 'uploads/transcripts_UCBerkeley.pdf'
-
 
 design:
-  columns: '2'
+  columns: '3'
 ---
