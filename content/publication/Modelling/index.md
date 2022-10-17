@@ -17,13 +17,13 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2020-11-16T00:00:00Z"
+# publishDate: "2020-11-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 #publication: Submitted to IEEE Electron Device Letters
@@ -62,7 +62,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- content/project/Bee/index.md
+- content/project/Modelling/index.md
 
 
 # Slides (optional).
