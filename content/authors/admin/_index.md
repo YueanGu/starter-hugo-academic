@@ -62,7 +62,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'guyuean19@mails.ucas.ac.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
