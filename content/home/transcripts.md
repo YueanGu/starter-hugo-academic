@@ -1,41 +1,44 @@
 ---
-# An instance of the Pages widget.
+# An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#title: 'Accomplish&shy;ments'
 title: 'Transcripts'
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ''
-    category: ''
-    tag: ''
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ''
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+  - date_start: '2022-08-27'
+    date_end: '2023-01-31'
+    description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+    organization: 'Instructor: Professor Nan Qi'
+    organization_url: ''
+    title: Teaching Assistant, Nonlinear Electrical Circuits
+    url: ''
+  - date_start: '2022-10-08'
+    date_end: '2022-12-31'
+    description: Formulated informed blockchain models, hypotheses, and use cases.
+    organization: 'Instructor: Professor Peng Feng'
+    title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
+    url: ''
+
 
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 3
+  columns: '2'
 ---
