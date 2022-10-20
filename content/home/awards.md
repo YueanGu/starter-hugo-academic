@@ -24,19 +24,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2022-08-30'
-    date_end: '2022-10-20'
+  - date_start: '2022-09-26'
+    #date_end: '2022-10-20'
     company: GenCoin
     description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023.
-    #organization: 'Instructor: Professor Peng Feng'
+    organization: 'University of Chinese Academy of Sciences'
     title: UCAS Overseas Graduate Studies Fellowship
     #url: 'uploads/transcripts_UCAS.pdf'
   - date_start: '2022-08-27'
-    date_end: '2023-01-31'
+    #date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}}{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-    #organization: 'Instructor: Professor Nan Qi'
+    organization: 'School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences'
     #organization_url: ''
-    title: 🖨 Click Here to Download Transcripts at UC Berkeley
+    title: Outstanding Academic Research and Innovation Award
     url: 'uploads/transcripts_UCBerkeley.pdf'
 
 design:
