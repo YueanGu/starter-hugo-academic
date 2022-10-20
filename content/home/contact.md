@@ -28,15 +28,15 @@ content:
   email: guyuean19@mails.ucas.ac.cn
   phone: 86 188 0112 2191
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  #coordinates:
-  #  latitude: '37.4275'
-  #  longitude: '-122.1697'
+    street: 19(A) Yuquan Road
+    city: Shijingshan District
+    region: Beijing
+    postcode: '100049'
+    country: China
+    country_code: CN
+  coordinates:
+    latitude: '39.908794'
+    longitude: '116.250402'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
