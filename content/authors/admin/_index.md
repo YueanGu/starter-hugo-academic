@@ -14,13 +14,13 @@ organizations:
     url: https://english.ucas.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include integrated circuits, silicon photonics and xxx.
+bio: My research interests include integrated circuits, silicon photonics and Optical Communication.
 
 # Interests to show in About widget
 interests:
   - Integrated Circuits
   - Silicon Photonics
-  - Information Retrieval
+  - Optical Communication
 
 # Education to show in About widget
 education:
@@ -71,4 +71,4 @@ highlight_name: true
 
 Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. 
 
-{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.Here is my {{< staticref "uploads/picture.jpg" "newtab" >}}picture{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
