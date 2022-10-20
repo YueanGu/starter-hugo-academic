@@ -27,17 +27,17 @@ item:
   - date_start: '2022-09-26'
     #date_end: '2022-10-20'
     company: GenCoin
-    description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023.
-    organization: 'University of Chinese Academy of Sciences'
+    description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023. Here is the link of the funding letter: https://main--yuean.netlify.app/uploads/Fellowship_Letter.pdf
+    organization: 'University of Chinese Academy of Sciences(UCAS)'
     title: UCAS Overseas Graduate Studies Fellowship
     #url: 'uploads/transcripts_UCAS.pdf'
   - date_start: '2022-08-27'
     #date_end: '2023-01-31'
     description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}}{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-    organization: 'School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences'
+    organization: 'School of Electronic, Electrical and Communication Engineering, UCAS'
     #organization_url: ''
     title: Outstanding Academic Research and Innovation Award
-    url: 'uploads/transcripts_UCBerkeley.pdf'
+    #url: 'uploads/transcripts_UCBerkeley.pdf'
 
 design:
   columns: '2'
