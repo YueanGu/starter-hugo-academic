@@ -27,7 +27,7 @@ item:
   - date_start: '2022-09-26'
     #date_end: '2022-10-20'
     company: GenCoin
-    description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023. Here is the link of the funding letter: https://main--yuean.netlify.app/uploads/Fellowship_Letter.pdf
+    description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023. 
     organization: 'University of Chinese Academy of Sciences(UCAS)'
     title: UCAS Overseas Graduate Studies Fellowship
     #url: 'uploads/transcripts_UCAS.pdf'
