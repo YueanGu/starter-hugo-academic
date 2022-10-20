@@ -27,7 +27,7 @@ item:
   - date_start: '2022-08-30'
     date_end: '2022-10-20'
     company: GenCoin
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: This fellowship covers recipients' tuition fees and living expenses at overseas institutions for a full year, in order to support UCAS's best graduates upon completion of their BS degrees for PhD studies abroad starting in the Fall of 2023.
     #organization: 'Instructor: Professor Peng Feng'
     title: UCAS Overseas Graduate Studies Fellowship
     #url: 'uploads/transcripts_UCAS.pdf'
