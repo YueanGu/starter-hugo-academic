@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2022-10-08'
-    date_end: ''
+  - date_start: '2019-08-30'
+    date_end: '2022-10-20'
     company: GenCoin
     description: Formulated informed blockchain models, hypotheses, and use cases.
     #organization: 'Instructor: Professor Peng Feng'
