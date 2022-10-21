@@ -55,7 +55,8 @@ experience:
     location: Beijing, China
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
+    description:
+    #description: |2-
         Designed a testboard system for a clock-data-recovery chip using Altium Designer.
         
         * Calculated the characteristic impedance of transmission line to decrease the reflection and increase the transmission of the high frequency signals.

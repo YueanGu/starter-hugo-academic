@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - date_start: '2022-08-31'
     date_end: '2023-01-03'
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.Formulated informed blockchain models, hypotheses, and use cases.'
+    description: Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI processfor down to 2.5K cryogenic temperatures on different types of devices.
     organization: 'Instructor: Professor Peng Feng'
     title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
     url: ''
