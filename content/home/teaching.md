@@ -26,8 +26,7 @@ date_format: Jan 2006
 item:
   - date_start: '2022-08-31'
     date_end: '2023-01-03'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    Formulated informed blockchain models, hypotheses, and use cases.
+    description: 'Formulated informed blockchain models, hypotheses, and use cases.Formulated informed blockchain models, hypotheses, and use cases.'
     organization: 'Instructor: Professor Peng Feng'
     title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
     url: ''
