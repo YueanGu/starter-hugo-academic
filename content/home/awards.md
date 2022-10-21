@@ -31,12 +31,12 @@ item:
     organization: 'University of Chinese Academy of Sciences(UCAS)'
     title: UCAS Overseas Graduate Studies Fellowship
     url: 'uploads/Fellowship_Letter.pdf'
-  - date_start: '2022-08-27'
-    #date_end: '2023-01-31'
-    description: 
-    organization: 'School of Electronic, Electrical and Communication Engineering, UCAS'
-    #organization_url: ''
-    title: Outstanding Academic Research and Innovation Award
+  #- date_start: '2022-08-27'
+  #  #date_end: '2023-01-31'
+  #  description: 
+  #  organization: 'School of Electronic, Electrical and Communication Engineering, UCAS'
+  #  #organization_url: ''
+  #  title: Outstanding Academic Research and Innovation Award
     #url: 'uploads/transcripts_UCBerkeley.pdf'
 
 design:
