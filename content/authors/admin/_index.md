@@ -69,7 +69,7 @@ email: 'guyuean19@mails.ucas.ac.cn'
 highlight_name: true
 ---
 
-Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. She is currently looking for a Ph.D. position in integrated circuits, silicon photonics and optical communication.
-
+Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. Her research interests include integrated circuits, silicon photonics and optical communication.
+Yuean Gu is a senior undergr
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
