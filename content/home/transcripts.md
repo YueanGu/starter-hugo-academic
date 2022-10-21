@@ -24,20 +24,20 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_start: '2019-08-30'
-    date_end: '2022-10-20'
-    company: GenCoin
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    #organization: 'Instructor: Professor Peng Feng'
-    title: 🖨 Click Here to Download Transcripts at University of Chinese Academy of Sciences
-    url: 'uploads/transcripts_UCAS.pdf'
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
-    description: Formulated informed blockchain models, hypotheses, and use cases. {{< icon name="download" pack="fas" >}}{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+    description: 'Overall GPA:4.0/4.0'
     #organization: 'Instructor: Professor Nan Qi'
     #organization_url: ''
     title: 🖨 Click Here to Download Transcripts at UC Berkeley
     url: 'uploads/transcripts_UCBerkeley.pdf'
+  - date_start: '2019-08-30'
+    date_end: '2022-10-20'
+    company: GenCoin
+    description: 'Overall GPA:3.87/4.0 Major GPA:3.98/4.0'
+    #organization: 'Instructor: Professor Peng Feng'
+    title: 🖨 Click Here to Download Transcripts at University of Chinese Academy of Sciences
+    url: 'uploads/transcripts_UCAS.pdf'
 
 design:
   columns: '2'
