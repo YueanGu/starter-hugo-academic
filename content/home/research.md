@@ -57,7 +57,8 @@ experience:
     date_end: '2021-09-13'
     description:|2-
         Designed high-speed evaluation boards for 4×25Gb/s De-Serializer with Baud-Rate Sampling CDR in Altium Designer.
-	  *  Signal integrity: Designed differential coplanar waveguide on board, calculated characteristic impedance of transmission line to decrease reflection using SI9000 and simulated its performance using Advanced Design System.
+	  
+        *  Signal integrity: Designed differential coplanar waveguide on board, calculated characteristic impedance of transmission line to decrease reflection using SI9000 and simulated its performance using Advanced Design System.
         *  Power integrity: Used multiple decoupling capacitors to depress the current ripple and magnetic beadso suppress high-frequency noise and spike interference on signal circuits and power circuits.
 
 
