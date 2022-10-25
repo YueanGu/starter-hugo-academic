@@ -61,6 +61,16 @@ experience:
         * Designed differential coplanar waveguide on board, calculated characteristic impedance of transmission line to decrease reflection using SI9000 and simulated its performance using Advanced Design System.
         * Used multiple decoupling capacitors to depress the current ripple and magnetic beadso suppress high-frequency noise and spike interference on signal circuits and power circuits.
 
+  - title: Optical Ising Machine Design
+    company: State Key Laboratory on Integrated Optoelectronics, CAS, supervised by Prof. Ming Li
+    company_url: ''
+    location: Beijing, China
+    date_start: '2021-03-13'
+    date_end: '2021-05-13'
+    description: |2-
+       * Read literature regarding optoelectronic oscillator(OEO) and summarized recent progress in the field of OEOs.
+            * Assisted in the design of an optical Ising machine, which is based on OEO and can be used to solve some optimization problems. Added an optical fiber of proper length to keep the feedback signal in the same phase with the forward signal and used Matlab to process the experimental data.
+
 design:
   columns: '2'
 ---
