@@ -52,15 +52,14 @@ experience:
   - title: High-Speed PCB Design and Layout
     company: State Key Laboratory of semiconductor superlattices, supervised by Prof. Nan Qi
     company_url: ''
-    location: Berkeley, U.S.
+    location: Beijing, China
     date_start: '2022-03-13'
     date_end: '2020-08-13'
     description: |2-
-        Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI process down to 2.5K on different types of devices.
+        Designed high-speed evaluation boards for 4×25Gb/s De-Serializer with Baud-Rate Sampling CDR in Altium Designer. 
         
-        * Introduced an effective temperature formulation to capture the effects of the band tail states.
-        * Extracted key design parameters including threshold voltage, effective mobility and saturation velocity, presented a modified verilog-A compact model within industry-standard Berkeley short-channel IGFET model (BSIM) framework.
-        * Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
+        * Designed differential coplanar waveguide on board, calculated characteristic impedance of transmission line to decrease reflection using SI9000 and simulated its performance using Advanced Design System.
+        * Used multiple decoupling capacitors to depress the current ripple and magnetic beadso suppress high-frequency noise and spike interference on signal circuits and power circuits.
 
 design:
   columns: '2'
