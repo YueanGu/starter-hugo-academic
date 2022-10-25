@@ -71,6 +71,6 @@ highlight_name: true
 
 Yuean Gu is a senior undergraduate majoring in Electrical Engineering at University of Chinese Academy of Sciences. Her research interests include integrated circuits, silicon photonics and optical communication.
 
-Yuean Gu is a senior undergr
+Yuean Gu has research experience in device modeling, analog circuit design and chip tapeout. Her goal is to apply IC design to . 
 
 {{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
