@@ -37,9 +37,9 @@ experience:
         * Expected to tapeout in November.
 
   - title: 45RFSOI Mosfet Modeling Down to Cryogenic Temperatures
-    company: Berkeley Wireless Research Center(BWRC), University of California, Berkeley
+    company: Berkeley Wireless Research Center(BWRC), UC Berkeley
     company_url: ''
-    location: Berkeley , U.S.
+    location: Berkeley, U.S.
     date_start: '2022-03-13'
     date_end: '2020-08-13'
     description: |2-
@@ -49,6 +49,18 @@ experience:
         * Extracted key design parameters including threshold voltage, effective mobility and saturation velocity, presented a modified verilog-A compact model within industry-standard Berkeley short-channel IGFET model (BSIM) framework.
         * Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
 
+  - title: High-Speed PCB Design and Layout
+    company: State Key Laboratory of semiconductor superlattices, supervised by Prof. Nan Qi
+    company_url: ''
+    location: Berkeley, U.S.
+    date_start: '2022-03-13'
+    date_end: '2020-08-13'
+    description: |2-
+        Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI process down to 2.5K on different types of devices.
+        
+        * Introduced an effective temperature formulation to capture the effects of the band tail states.
+        * Extracted key design parameters including threshold voltage, effective mobility and saturation velocity, presented a modified verilog-A compact model within industry-standard Berkeley short-channel IGFET model (BSIM) framework.
+        * Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
 
 design:
   columns: '2'
