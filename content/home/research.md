@@ -32,23 +32,22 @@ experience:
     description: |2-
         Working on designing a silicon photonic micro-ring based 64baud/s based optical transmitter with 2-tap Feed-Forward Equalization(FFE) and nonlinear equalization in 45nm SOI CMOS.
         
-        *Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
-        *Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35G. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
-        *Expected to tapeout in November.
+        * Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
+        * Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35G. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
+        * Expected to tapeout in November.
 
 
-  - title: Professor of Semiconductor Physics
+  - title: 45RFSOI Mosfet Modeling Down to Cryogenic Temperatures
     company: Berkeley Wireless Research Center(BWRC), University of California, Berkeley
     company_url: ''
-    location: Beijing, China
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Berkeley , U.S.
+    date_start: '2022-03-13'
+    date_end: '2020-08-13'
     description: |2-
-        Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI processfor down to 2.5K cryogenic temperatures on different types of devices.
-        
-        * Extracted key design parameters and analyzed them with the corresponding low-temperature effect.
-        * Introduced an effective temperature formulation to capture the effects of the band tail states and presented a compact model that corrects the low-temperature threshold voltage for the band-tail states, Fermi–Dirac statistics, and interface traps.
-        * Used Cadence Virtuoso and Matlab to model the experimental data of 45nm PDSOI CMOS from room temperature down to cryogenic temperatures.
+        Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI process down to 2.5K on different types of devices.
+        * Introduced an effective temperature formulation to capture the effects of the band tail states.
+        *  Extracted key design parameters including threshold voltage, effective mobility and saturation velocity, presented a modified verilog-A compact model within industry-standard Berkeley short-channel IGFET model (BSIM) framework.
+              *  Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
 
   - title: Designed a testboard system for a clock-data-recovery chip
     company: GenCoin
