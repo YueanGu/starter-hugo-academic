@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - date_start: '2022-08-27'
     date_end: '2023-01-31'
-    description: 'Overall GPA:4.0/4.0'
+    description: 'Overall GPA: 4.0/4.0'
     #organization: 'Instructor: Professor Nan Qi'
     #organization_url: ''
     title: 🖨 Click Here to Download Transcripts at UC Berkeley
@@ -34,7 +34,7 @@ item:
   - date_start: '2019-08-30'
     date_end: '2022-10-20'
     company: GenCoin
-    description: 'Overall GPA:3.87/4.0 Major GPA:3.98/4.0'
+    description: 'Overall GPA: 3.87/4.0   Major GPA: 3.98/4.0'
     #organization: 'Instructor: Professor Peng Feng'
     title: 🖨 Click Here to Download Transcripts at University of Chinese Academy of Sciences
     url: 'uploads/transcripts_UCAS.pdf'
