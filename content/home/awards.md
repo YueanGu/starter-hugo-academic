@@ -38,7 +38,13 @@ item:
     #organization_url: ''
     title: Outstanding Academic Research and Innovation Award
     #url: 'uploads/transcripts_UCBerkeley.pdf'
-
+  - date_start: '2022-06-20'
+    #date_end: '2023-01-31'
+    description: 
+    organization: 'University of Chinese Academy of Sciences(UCAS)'
+    #organization_url: ''
+    title: Triple-A Student
+    #url: 'uploads/transcripts_UCBerkeley.pdf'
 design:
   columns: '2'
 ---
