@@ -25,13 +25,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2022-08-31'
-    date_end: ''
+    date_end: '2023-01-03'
     description: |2-
-        Working on designing a silicon photonic micro-ring based 64baud/s based optical transmitter with 2-tap Feed-Forward Equalization(FFE) and nonlinear equalization in 45nm SOI CMOS.
-        
-        * Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
-        * Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35GHz. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
-        * Expected to tapeout in November.
+        Teaching assistant (TA) for higher-division electrical engineering lab(Experiment of Nonlinear Electrical Circuits) of 38 students twice a week. Work load is about 16-18 hours every week.
+
+        * Responsible for grading assignments, class participation and instrument maintenance .
+        * Provided assistance to students with PCB designing and circuit measurement. 
+
     organization: 'Instructor: Professor Peng Feng'
     title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
     url: ''
