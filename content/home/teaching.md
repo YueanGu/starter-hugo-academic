@@ -26,7 +26,12 @@ date_format: Jan 2006
 item:
   - date_start: '2022-08-31'
     date_end: '2023-01-03'
-    description: 
+    description: |2-
+        Working on designing a silicon photonic micro-ring based 64baud/s based optical transmitter with 2-tap Feed-Forward Equalization(FFE) and nonlinear equalization in 45nm SOI CMOS.
+        
+        * Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
+        * Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35GHz. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
+        * Expected to tapeout in November.
     organization: 'Instructor: Professor Peng Feng'
     title: Teaching Assistant, Experiment of Nonlinear Electrical Circuits
     url: ''
