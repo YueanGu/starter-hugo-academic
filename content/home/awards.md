@@ -24,6 +24,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2022-10-26'
+    #date_end: '2023-01-31'
+    description: 
+    organization: 'School of Electronics, Electrical and Communication Engineering, UCAS'
+    #organization_url: ''
+    title: Outstanding Academic Research and Innovation Award
+    #url: 'uploads/transcripts_UCBerkeley.pdf'
   - date_start: '2022-09-26'
     #date_end: '2022-10-20'
     company: GenCoin
@@ -31,13 +38,6 @@ item:
     organization: 'University of Chinese Academy of Sciences(UCAS)'
     title: UCAS Overseas Graduate Studies Fellowship
     url: 'uploads/Fellowship_Letter.pdf'
-  - date_start: '2022-08-27'
-    #date_end: '2023-01-31'
-    description: 
-    organization: 'School of Electronics, Electrical and Communication Engineering, UCAS'
-    #organization_url: ''
-    title: Outstanding Academic Research and Innovation Award
-    #url: 'uploads/transcripts_UCBerkeley.pdf'
   - date_start: '2022-06-20'
     #date_end: '2023-01-31'
     description: 
