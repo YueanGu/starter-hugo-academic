@@ -37,7 +37,7 @@ experience:
         * Expected to tapeout in November.
 
   - title: 45RFSOI Mosfet Modeling Down to Cryogenic Temperatures
-    company: Berkeley Wireless Research Center(BWRC), UC Berkeley
+    company: Berkeley Wireless Research Center(BWRC), UC Berkeley, supervised by Prof. Vladimir Stojanovic
     company_url: ''
     location: Berkeley, U.S.
     date_start: '2022-03-13'
@@ -45,6 +45,7 @@ experience:
     description: |2-
         Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI process down to 2.5K on different types of devices.
         
+        * In an optical communication system, MOSFET works in cryogenic temperature environment for quantum computing and high-performance superconducting computing. An electronic-photonic egress link is used to connect cryogenic compute node with its room-temperature main memory. However, the existing BSIM model cannot predict 45RFSOI MOSFET performance at cryogenic temperatures correctly.
         * Introduced an effective temperature formulation to capture the effects of the band tail states.
         * Extracted key design parameters including threshold voltage, effective mobility and saturation velocity, presented a modified verilog-A compact model within industry-standard Berkeley short-channel IGFET model (BSIM) framework.
         * Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
