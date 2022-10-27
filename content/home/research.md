@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 64baud/s Optical Transmitter Driver Chip Tapeout
-    company: State Key Laboratory of semiconductor superlattices, supervised by Prof. Nan Qi
+    company: State Key Laboratory of semiconductor superlattices, Institute of Semiconductors, Chinese Academy of Sciences (CAS), supervised by Prof. Nan Qi
     company_url: ''
 #   company_logo: org-gc
     location: Beijing, China
@@ -41,7 +41,7 @@ experience:
     company_url: ''
     location: Berkeley, U.S.
     date_start: '2022-03-13'
-    date_end: '2020-08-13'
+    date_end: '2022-08-13'
     description: |2-
         Evaluated DC characteristics of transistors in the commercial 45nm PD-SOI process down to 2.5K on different types of devices.
         
@@ -51,11 +51,11 @@ experience:
         * Introduced polynomial functions to replace the original threshold voltage expression in BSIM model, which has discontinuity points at cryogenic temperatures. Modelled id-vd curve and id-vg curve with a wide temperature range and mean absolute percentage error is smaller than 0.1 percent.
 
   - title: High-Speed PCB Design and Layout
-    company: State Key Laboratory of semiconductor superlattices, supervised by Prof. Nan Qi
+    company: State Key Laboratory of semiconductor superlattices, Institute of Semiconductors, Chinese Academy of Sciences (CAS), supervised by Prof. Nan Qi
     company_url: ''
     location: Beijing, China
-    date_start: '2022-03-13'
-    date_end: '2020-08-13'
+    date_start: '2021-07-13'
+    date_end: '2021-09-13'
     description: |2-
         Designed high-speed evaluation boards for 4×25Gb/s De-Serializer with Baud-Rate Sampling CDR in Altium Designer. 
         
@@ -63,7 +63,7 @@ experience:
         * Used multiple decoupling capacitors to depress the current ripple and magnetic beadso suppress high-frequency noise and spike interference on signal circuits and power circuits.
 
   - title: Optical Ising Machine Design
-    company: State Key Laboratory on Integrated Optoelectronics, CAS, supervised by Prof. Ming Li
+    company: State Key Laboratory on Integrated Optoelectronics, Institute of Semiconductors, Chinese Academy of Sciences (CAS), supervised by Prof. Ming Li
     company_url: ''
     location: Beijing, China
     date_start: '2021-03-13'
