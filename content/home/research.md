@@ -34,7 +34,7 @@ experience:
         
         * Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
         * Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35GHz. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
-        * Expected to tapeout in November.
+        * Expected to tapeout in January.
 
   - title: 45RFSOI Mosfet Modeling Down to Cryogenic Temperatures
     company: Berkeley Wireless Research Center(BWRC), UC Berkeley, supervised by Prof. Vladimir Stojanovic
