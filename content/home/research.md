@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 64baud/s Optical Transmitter Driver Chip Tapeout
+  - title: 64Gbaud/s Optical Transmitter Driver Chip Tapeout
     company: State Key Laboratory of semiconductor superlattices, Institute of Semiconductors, Chinese Academy of Sciences (CAS), supervised by Prof. Nan Qi
     company_url: ''
 #   company_logo: org-gc
@@ -30,7 +30,7 @@ experience:
     date_start: '2022-08-31'
     date_end: ''
     description: |2-
-        Working on designing a silicon photonic micro-ring based 64baud/s based optical transmitter with 2-tap Feed-Forward Equalization(FFE) and nonlinear equalization in 45nm SOI CMOS.
+        Working on designing a silicon photonic micro-ring based 64Gbaud/s based optical transmitter with 2-tap Feed-Forward Equalization(FFE) and nonlinear equalization in 45nm SOI CMOS.
         
         * Currently focusing on designing Cherry-Hooper structure continuous-time linear equalizer (CTLE) stage and 2-stage variable gain amplifier(VGA). 
         * Expected to realize 15dB boost and 12 dB gain within the bandwidth of 35GHz. Modeled CTLE in Advanced Design System and wrote verilog-A model in Virtuoso to optimize circuit design.
