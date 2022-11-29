@@ -29,7 +29,7 @@ authors:
 #publication: Submitted to IEEE Electron Device Letters
 #publication_short: Submitted to IEEE Electron Device Letters
 
-abstract: Characteristics of transistors in the commercial 45nm PD-SOI process are evaluated for the first time down to 2.5K cryogenic temperatures. The measured values are used to demonstrate the impact of cryogenic temperatures on integrated circuit designs for cryogenic computing systems. DC characterization is implemented on different types of devices. Key design parameters are extracted and analyzed with the corresponding low-temperature effect. The characterization of ring oscillator shows that average logic delay improves by approximately 21%after reducing the temperature from 300K to 2.5K, contributed by the increase of the drive current and decrease of capacitors.
+abstract: Characteristics of transistors in the commercial 45nm PD-SOI process are evaluated for the first time down to 2.5K cryogenic temperatures. 
 
 tags: []
 
